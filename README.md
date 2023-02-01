@@ -1,13 +1,26 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# All for One
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+A [Trybe](https://www.betrybe.com/) é uma escola de tecnologia com foco em formação de Desenvolvedores Web e o projeto All for One foi proposto como atividade de aprimoramento dos estudos sobre desenvolvimento back-end. 
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Objetivo
+
+O projeto One for All consiste em uma série de desafios para elaborar consultas ao banco `Northwind` a fim de se praticar a elaboração de querys SQL.
+
+## Tecnologias e Ferramentas
+<div>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"/>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
+</div>
+
+<br>
+
+Na elaboração deste projeto utilizou-se as seguintes ferramentas:
+
+- [Docker](https://www.docker.com/)
+- [MySQL](https://www.mysql.com/)
+
+**Obs.:** o script do banco de dados `northwind.sql` foi disponibilizado pela [Trybe](https://www.betrybe.com/)  para a realização deste projeto.
+
+---
+ 
+Desenvolvido por [Gabriela Moura](https://www.linkedin.com/in/gabriela-daniel-moura/), © 2022.
